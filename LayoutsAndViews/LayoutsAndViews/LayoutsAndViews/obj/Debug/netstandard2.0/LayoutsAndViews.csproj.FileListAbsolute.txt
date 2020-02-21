@@ -1,0 +1,14 @@
+C:\Users\bptnbs\source\repos\LayoutsAndViews\LayoutsAndViews\LayoutsAndViews\bin\Debug\netstandard2.0\LayoutsAndViews.deps.json
+C:\Users\bptnbs\source\repos\LayoutsAndViews\LayoutsAndViews\LayoutsAndViews\bin\Debug\netstandard2.0\LayoutsAndViews.dll
+C:\Users\bptnbs\source\repos\LayoutsAndViews\LayoutsAndViews\LayoutsAndViews\bin\Debug\netstandard2.0\ref\LayoutsAndViews.dll
+C:\Users\bptnbs\source\repos\LayoutsAndViews\LayoutsAndViews\LayoutsAndViews\bin\Debug\netstandard2.0\LayoutsAndViews.pdb
+C:\Users\bptnbs\source\repos\LayoutsAndViews\LayoutsAndViews\LayoutsAndViews\obj\Debug\netstandard2.0\LayoutsAndViews.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\LayoutsAndViews\LayoutsAndViews\LayoutsAndViews\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bptnbs\source\repos\LayoutsAndViews\LayoutsAndViews\LayoutsAndViews\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\bptnbs\source\repos\LayoutsAndViews\LayoutsAndViews\LayoutsAndViews\obj\Debug\netstandard2.0\LayoutsAndViews.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\LayoutsAndViews\LayoutsAndViews\LayoutsAndViews\obj\Debug\netstandard2.0\LayoutsAndViews.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\LayoutsAndViews\LayoutsAndViews\LayoutsAndViews\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\bptnbs\source\repos\LayoutsAndViews\LayoutsAndViews\LayoutsAndViews\obj\Debug\netstandard2.0\LayoutsAndViews.dll
+C:\Users\bptnbs\source\repos\LayoutsAndViews\LayoutsAndViews\LayoutsAndViews\obj\Debug\netstandard2.0\ref\LayoutsAndViews.dll
+C:\Users\bptnbs\source\repos\LayoutsAndViews\LayoutsAndViews\LayoutsAndViews\obj\Debug\netstandard2.0\LayoutsAndViews.pdb
+C:\Users\bptnbs\source\repos\LayoutsAndViews\LayoutsAndViews\LayoutsAndViews\obj\Debug\netstandard2.0\ListViewPage1.xaml.g.cs

@@ -1,0 +1,11 @@
+C:\Users\bptnbs\source\repos\FileIO\FileIO\obj\Debug\netcoreapp3.1\FileIO.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\FileIO\FileIO\obj\Debug\netcoreapp3.1\FileIO.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\FileIO\FileIO\obj\Debug\netcoreapp3.1\FileIO.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\FileIO\FileIO\bin\Debug\netcoreapp3.1\FileIO.exe
+C:\Users\bptnbs\source\repos\FileIO\FileIO\bin\Debug\netcoreapp3.1\FileIO.deps.json
+C:\Users\bptnbs\source\repos\FileIO\FileIO\bin\Debug\netcoreapp3.1\FileIO.runtimeconfig.json
+C:\Users\bptnbs\source\repos\FileIO\FileIO\bin\Debug\netcoreapp3.1\FileIO.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\FileIO\FileIO\bin\Debug\netcoreapp3.1\FileIO.dll
+C:\Users\bptnbs\source\repos\FileIO\FileIO\bin\Debug\netcoreapp3.1\FileIO.pdb
+C:\Users\bptnbs\source\repos\FileIO\FileIO\obj\Debug\netcoreapp3.1\FileIO.dll
+C:\Users\bptnbs\source\repos\FileIO\FileIO\obj\Debug\netcoreapp3.1\FileIO.pdb

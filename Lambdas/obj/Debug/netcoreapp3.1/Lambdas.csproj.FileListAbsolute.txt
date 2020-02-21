@@ -1,0 +1,11 @@
+C:\Users\bptnbs\source\repos\Lambdas\bin\Debug\netcoreapp3.1\Lambdas.exe
+C:\Users\bptnbs\source\repos\Lambdas\bin\Debug\netcoreapp3.1\Lambdas.deps.json
+C:\Users\bptnbs\source\repos\Lambdas\bin\Debug\netcoreapp3.1\Lambdas.runtimeconfig.json
+C:\Users\bptnbs\source\repos\Lambdas\bin\Debug\netcoreapp3.1\Lambdas.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\Lambdas\bin\Debug\netcoreapp3.1\Lambdas.dll
+C:\Users\bptnbs\source\repos\Lambdas\bin\Debug\netcoreapp3.1\Lambdas.pdb
+C:\Users\bptnbs\source\repos\Lambdas\obj\Debug\netcoreapp3.1\Lambdas.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\Lambdas\obj\Debug\netcoreapp3.1\Lambdas.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\Lambdas\obj\Debug\netcoreapp3.1\Lambdas.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\Lambdas\obj\Debug\netcoreapp3.1\Lambdas.dll
+C:\Users\bptnbs\source\repos\Lambdas\obj\Debug\netcoreapp3.1\Lambdas.pdb

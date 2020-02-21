@@ -1,0 +1,12 @@
+C:\Users\bptnbs\source\repos\ByteIO\ByteIO\bin\Debug\netcoreapp3.1\ByteIO.exe
+C:\Users\bptnbs\source\repos\ByteIO\ByteIO\bin\Debug\netcoreapp3.1\ByteIO.deps.json
+C:\Users\bptnbs\source\repos\ByteIO\ByteIO\bin\Debug\netcoreapp3.1\ByteIO.runtimeconfig.json
+C:\Users\bptnbs\source\repos\ByteIO\ByteIO\bin\Debug\netcoreapp3.1\ByteIO.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\ByteIO\ByteIO\bin\Debug\netcoreapp3.1\ByteIO.dll
+C:\Users\bptnbs\source\repos\ByteIO\ByteIO\bin\Debug\netcoreapp3.1\ByteIO.pdb
+C:\Users\bptnbs\source\repos\ByteIO\ByteIO\obj\Debug\netcoreapp3.1\ByteIO.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\ByteIO\ByteIO\obj\Debug\netcoreapp3.1\ByteIO.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\ByteIO\ByteIO\obj\Debug\netcoreapp3.1\ByteIO.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\ByteIO\ByteIO\obj\Debug\netcoreapp3.1\ByteIO.dll
+C:\Users\bptnbs\source\repos\ByteIO\ByteIO\obj\Debug\netcoreapp3.1\ByteIO.pdb
+C:\Users\bptnbs\source\repos\ByteIO\ByteIO\bin\Debug\netcoreapp3.1\data.dat

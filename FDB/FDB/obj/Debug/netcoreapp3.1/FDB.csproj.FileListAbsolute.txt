@@ -1,0 +1,11 @@
+C:\Users\bptnbs\source\repos\FDB\FDB\bin\Debug\netcoreapp3.1\FDB.exe
+C:\Users\bptnbs\source\repos\FDB\FDB\bin\Debug\netcoreapp3.1\FDB.deps.json
+C:\Users\bptnbs\source\repos\FDB\FDB\bin\Debug\netcoreapp3.1\FDB.runtimeconfig.json
+C:\Users\bptnbs\source\repos\FDB\FDB\bin\Debug\netcoreapp3.1\FDB.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\FDB\FDB\bin\Debug\netcoreapp3.1\FDB.dll
+C:\Users\bptnbs\source\repos\FDB\FDB\bin\Debug\netcoreapp3.1\FDB.pdb
+C:\Users\bptnbs\source\repos\FDB\FDB\obj\Debug\netcoreapp3.1\FDB.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\FDB\FDB\obj\Debug\netcoreapp3.1\FDB.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\FDB\FDB\obj\Debug\netcoreapp3.1\FDB.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\FDB\FDB\obj\Debug\netcoreapp3.1\FDB.dll
+C:\Users\bptnbs\source\repos\FDB\FDB\obj\Debug\netcoreapp3.1\FDB.pdb

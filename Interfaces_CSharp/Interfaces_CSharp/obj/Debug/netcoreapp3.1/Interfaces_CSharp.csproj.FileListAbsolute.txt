@@ -1,0 +1,11 @@
+C:\Users\bptnbs\source\repos\Interfaces_CSharp\Interfaces_CSharp\bin\Debug\netcoreapp3.1\Interfaces_CSharp.exe
+C:\Users\bptnbs\source\repos\Interfaces_CSharp\Interfaces_CSharp\bin\Debug\netcoreapp3.1\Interfaces_CSharp.deps.json
+C:\Users\bptnbs\source\repos\Interfaces_CSharp\Interfaces_CSharp\bin\Debug\netcoreapp3.1\Interfaces_CSharp.runtimeconfig.json
+C:\Users\bptnbs\source\repos\Interfaces_CSharp\Interfaces_CSharp\bin\Debug\netcoreapp3.1\Interfaces_CSharp.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\Interfaces_CSharp\Interfaces_CSharp\bin\Debug\netcoreapp3.1\Interfaces_CSharp.dll
+C:\Users\bptnbs\source\repos\Interfaces_CSharp\Interfaces_CSharp\bin\Debug\netcoreapp3.1\Interfaces_CSharp.pdb
+C:\Users\bptnbs\source\repos\Interfaces_CSharp\Interfaces_CSharp\obj\Debug\netcoreapp3.1\Interfaces_CSharp.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\Interfaces_CSharp\Interfaces_CSharp\obj\Debug\netcoreapp3.1\Interfaces_CSharp.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\Interfaces_CSharp\Interfaces_CSharp\obj\Debug\netcoreapp3.1\Interfaces_CSharp.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\Interfaces_CSharp\Interfaces_CSharp\obj\Debug\netcoreapp3.1\Interfaces_CSharp.dll
+C:\Users\bptnbs\source\repos\Interfaces_CSharp\Interfaces_CSharp\obj\Debug\netcoreapp3.1\Interfaces_CSharp.pdb

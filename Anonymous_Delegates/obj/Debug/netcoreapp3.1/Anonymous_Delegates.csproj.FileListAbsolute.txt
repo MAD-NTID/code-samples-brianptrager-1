@@ -1,0 +1,11 @@
+C:\Users\bptnbs\source\repos\Anonymous_Delegates\bin\Debug\netcoreapp3.1\Anonymous_Delegates.exe
+C:\Users\bptnbs\source\repos\Anonymous_Delegates\bin\Debug\netcoreapp3.1\Anonymous_Delegates.deps.json
+C:\Users\bptnbs\source\repos\Anonymous_Delegates\bin\Debug\netcoreapp3.1\Anonymous_Delegates.runtimeconfig.json
+C:\Users\bptnbs\source\repos\Anonymous_Delegates\bin\Debug\netcoreapp3.1\Anonymous_Delegates.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\Anonymous_Delegates\bin\Debug\netcoreapp3.1\Anonymous_Delegates.dll
+C:\Users\bptnbs\source\repos\Anonymous_Delegates\bin\Debug\netcoreapp3.1\Anonymous_Delegates.pdb
+C:\Users\bptnbs\source\repos\Anonymous_Delegates\obj\Debug\netcoreapp3.1\Anonymous_Delegates.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\Anonymous_Delegates\obj\Debug\netcoreapp3.1\Anonymous_Delegates.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\Anonymous_Delegates\obj\Debug\netcoreapp3.1\Anonymous_Delegates.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\Anonymous_Delegates\obj\Debug\netcoreapp3.1\Anonymous_Delegates.dll
+C:\Users\bptnbs\source\repos\Anonymous_Delegates\obj\Debug\netcoreapp3.1\Anonymous_Delegates.pdb

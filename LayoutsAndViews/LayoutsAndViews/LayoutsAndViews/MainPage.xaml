@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="LayoutsAndViews.MainPage">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Herro"
+                     IconImageSource="Herro"
+                     Order="Primary"
+                     Priority="0"/>
+
+    </ContentPage.ToolbarItems>
+    
+    <StackLayout IsVisible="True" Spacing="30" BackgroundColor="Green">
+        <Label Text="Chicago Cubs fans aint allowed to type. Scroom!!" FontSize="Large"/>
+        <Button Text="Click Me!" 
+                Clicked="Button_Clicked" 
+                HorizontalOptions="Center" 
+                BackgroundColor="Aqua" 
+                VerticalOptions="Center" 
+                x:Name="hI"/>
+
+        <Label Text="Really guys?" TextColor="BlueViolet" BackgroundColor="Black" Margin="5,5,5,10"/>
+        <Entry Placeholder="Don't type in here please"/>
+        <Editor Placeholder="Type here please :)" PlaceholderColor="Black"/>
+        <Label Text="Florida Men is the bravest of all"/>
+
+        <DatePicker IsEnabled="True"/>
+
+        <ListView x:Name="SomeTypesListView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Name}" d:Text="{Binding IDK}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </StackLayout>
+
+</ContentPage>

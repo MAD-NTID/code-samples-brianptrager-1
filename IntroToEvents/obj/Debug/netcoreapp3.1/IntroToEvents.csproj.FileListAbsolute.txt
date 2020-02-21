@@ -1,0 +1,11 @@
+C:\Users\bptnbs\source\repos\IntroToEvents\bin\Debug\netcoreapp3.1\IntroToEvents.exe
+C:\Users\bptnbs\source\repos\IntroToEvents\bin\Debug\netcoreapp3.1\IntroToEvents.deps.json
+C:\Users\bptnbs\source\repos\IntroToEvents\bin\Debug\netcoreapp3.1\IntroToEvents.runtimeconfig.json
+C:\Users\bptnbs\source\repos\IntroToEvents\bin\Debug\netcoreapp3.1\IntroToEvents.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\IntroToEvents\bin\Debug\netcoreapp3.1\IntroToEvents.dll
+C:\Users\bptnbs\source\repos\IntroToEvents\bin\Debug\netcoreapp3.1\IntroToEvents.pdb
+C:\Users\bptnbs\source\repos\IntroToEvents\obj\Debug\netcoreapp3.1\IntroToEvents.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\IntroToEvents\obj\Debug\netcoreapp3.1\IntroToEvents.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\IntroToEvents\obj\Debug\netcoreapp3.1\IntroToEvents.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\IntroToEvents\obj\Debug\netcoreapp3.1\IntroToEvents.dll
+C:\Users\bptnbs\source\repos\IntroToEvents\obj\Debug\netcoreapp3.1\IntroToEvents.pdb

@@ -1,0 +1,12 @@
+C:\Users\bptnbs\source\repos\SplittingStrings\SplittingStrings\bin\Debug\netcoreapp3.1\SplittingStrings.exe
+C:\Users\bptnbs\source\repos\SplittingStrings\SplittingStrings\bin\Debug\netcoreapp3.1\SplittingStrings.deps.json
+C:\Users\bptnbs\source\repos\SplittingStrings\SplittingStrings\bin\Debug\netcoreapp3.1\SplittingStrings.runtimeconfig.json
+C:\Users\bptnbs\source\repos\SplittingStrings\SplittingStrings\bin\Debug\netcoreapp3.1\SplittingStrings.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\SplittingStrings\SplittingStrings\bin\Debug\netcoreapp3.1\SplittingStrings.dll
+C:\Users\bptnbs\source\repos\SplittingStrings\SplittingStrings\bin\Debug\netcoreapp3.1\SplittingStrings.pdb
+C:\Users\bptnbs\source\repos\SplittingStrings\SplittingStrings\obj\Debug\netcoreapp3.1\SplittingStrings.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\SplittingStrings\SplittingStrings\obj\Debug\netcoreapp3.1\SplittingStrings.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\SplittingStrings\SplittingStrings\obj\Debug\netcoreapp3.1\SplittingStrings.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\SplittingStrings\SplittingStrings\obj\Debug\netcoreapp3.1\SplittingStrings.dll
+C:\Users\bptnbs\source\repos\SplittingStrings\SplittingStrings\obj\Debug\netcoreapp3.1\SplittingStrings.pdb
+C:\Users\bptnbs\source\repos\SplittingStrings\SplittingStrings\bin\Debug\netcoreapp3.1\181.txt

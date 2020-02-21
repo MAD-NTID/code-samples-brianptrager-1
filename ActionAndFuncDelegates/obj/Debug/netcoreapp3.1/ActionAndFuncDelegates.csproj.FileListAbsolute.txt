@@ -1,0 +1,11 @@
+C:\Users\bptnbs\source\repos\ActionAndFuncDelegates\bin\Debug\netcoreapp3.1\ActionAndFuncDelegates.exe
+C:\Users\bptnbs\source\repos\ActionAndFuncDelegates\bin\Debug\netcoreapp3.1\ActionAndFuncDelegates.deps.json
+C:\Users\bptnbs\source\repos\ActionAndFuncDelegates\bin\Debug\netcoreapp3.1\ActionAndFuncDelegates.runtimeconfig.json
+C:\Users\bptnbs\source\repos\ActionAndFuncDelegates\bin\Debug\netcoreapp3.1\ActionAndFuncDelegates.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\ActionAndFuncDelegates\bin\Debug\netcoreapp3.1\ActionAndFuncDelegates.dll
+C:\Users\bptnbs\source\repos\ActionAndFuncDelegates\bin\Debug\netcoreapp3.1\ActionAndFuncDelegates.pdb
+C:\Users\bptnbs\source\repos\ActionAndFuncDelegates\obj\Debug\netcoreapp3.1\ActionAndFuncDelegates.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\ActionAndFuncDelegates\obj\Debug\netcoreapp3.1\ActionAndFuncDelegates.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\ActionAndFuncDelegates\obj\Debug\netcoreapp3.1\ActionAndFuncDelegates.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\ActionAndFuncDelegates\obj\Debug\netcoreapp3.1\ActionAndFuncDelegates.dll
+C:\Users\bptnbs\source\repos\ActionAndFuncDelegates\obj\Debug\netcoreapp3.1\ActionAndFuncDelegates.pdb
