@@ -1,0 +1,42 @@
+﻿<Page
+    x:Class="_181_UWP_Timer.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_181_UWP_Timer"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="myGrid" Background="Black" Height="Auto">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <CommandBar DefaultLabelPosition="Right">
+            <CommandBar.Content>
+                <TextBlock x:Name="swStatus" Text="Stopwatch ready!" Margin="10,10,0,0" />
+            </CommandBar.Content>
+            <AppBarButton x:Name="playButton" Icon="Play" Label="Play" Click="playButton_Click" />
+            <AppBarButton x:Name="stopButton" Icon="Stop" Label="Stop" Click="stopButton_Click" />
+            <AppBarSeparator />
+            <AppBarToggleButton x:Name="themeToggle" Label="Theme Mode" Click="themeToggle_Click">
+                <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE706;"/>
+            </AppBarToggleButton>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:Name="saveButton" Icon="Save" Label="Save" Click="saveButton_Click"/>
+                <AppBarButton x:Name="shareButton" Icon="Share" Label="Share" Click="shareButton_Click" />
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+
+        <TextBlock x:Name="swBlock"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   FontSize="72"
+                   Foreground="Aqua"
+                   Height="Auto"/>
+
+    </Grid>
+</Page>
