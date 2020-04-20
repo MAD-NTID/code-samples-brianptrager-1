@@ -1,0 +1,52 @@
+﻿<Page
+    x:Class="HelloXAML.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HelloXAML"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="DarkSlateBlue">
+    <StackPanel Margin="0" Spacing="10" HorizontalAlignment="Center">
+        
+        <TextBlock x:Name ="message" 
+                   Text="Hello XAML!!"
+                   HorizontalTextAlignment="Left"
+                   Foreground="Aqua"
+                   FontWeight="Bold"
+                   FontFamily="Century Gothic"
+                   FontSize="48"
+                   IsTextSelectionEnabled="true"
+                   SelectionHighlightColor="Fuchsia"
+                   TextWrapping="Wrap"
+                   />
+        <TextBox x:Name="entry" 
+                 PlaceholderText="Enter a message"
+                 Width="250"
+                 MaxHeight="100"
+                 Header="Message:"
+                 TextWrapping="Wrap"
+                 Height="100"
+                 />
+        <Button x:Name="myButton" 
+                Content="Click Me"
+                Foreground="Aqua"
+                FontSize="24"
+                Width="150"
+                HorizontalAlignment="Center"
+                Click="myButton_Click"
+                />
+        <ColorPicker x:Name="picker" 
+                     ColorSpectrumShape="Box"
+                     IsColorPreviewVisible="true"
+                     IsHexInputVisible="false"
+                     IsColorChannelTextInputVisible="False"
+                     HorizontalAlignment="Center"
+                     />
+        <Button x:Name="colorButton" 
+                Content="Change color"
+                HorizontalAlignment="Center"
+                Click="colorButton_Click"
+                />
+    </StackPanel>
+</Page>
